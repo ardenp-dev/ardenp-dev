@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hi, I'm Arden
+
+I'm a student interested in robotics, electronics, and applied mathematics.
+
+## Projects
+
+I'm currently building out this portfolio. Selected projects will appear here as I complete and document them.
 
 <!--
 **ardenp-dev/ardenp-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
